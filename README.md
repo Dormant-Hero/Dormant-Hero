@@ -12,7 +12,7 @@ The accounting side is useful in understanding operations and applying the autom
 
 **Sacred 2 Rune Icons:** The Sacred 2 remaster shipped with my version of the rune icons. The originals were low resolution, but higher quality copies were already sitting elsewhere in the game files, so I rebuilt the small ones from those, one at a time in GIMP (I am in the credits).
 
-**Sacred 2 RML files:** Damage numbers were overlapping each other in the HUD. The engine controls the <div> but not the <span> inside it, so I worked at that level instead. The fix went into a patch, and the developers kept my code comment explaining the trick so the next person tinkering with the file would find it.
+**Sacred 2 RML files:** Damage numbers were overlapping each other in the HUD. The engine controls the `<div>` but not the `<span>` inside it, so I worked at that level instead. The fix went into a patch, and the developers kept my code comment explaining the trick so the next person tinkering with the file would find it.
 
 ## What I use at work
 
