@@ -16,4 +16,4 @@ The accounting side is useful in understanding operations and applying the autom
 
 ## What I use at work
 
-Python (pandas, Selenium, win32com and whatever else the job needs), n8n, Power Automate and Power Automate Desktop, Databricks, AI harnesses and Excel VBA.
+Python (pandas, Selenium, win32com and whatever else the job needs), n8n, Power Automate and Power Automate Desktop, Databricks, AI harnesses/LLM tooling and Excel VBA.
